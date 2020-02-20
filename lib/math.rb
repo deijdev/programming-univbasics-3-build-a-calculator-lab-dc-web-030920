@@ -5,9 +5,9 @@ sum
 end
 
 def subtraction(num1, num2)
-result = num2 - num1
-puts result
-result
+sum = num2 - num1
+puts sum
+sum
 end
 
 def division(num1, num2)
